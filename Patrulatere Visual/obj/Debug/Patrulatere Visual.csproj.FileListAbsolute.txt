@@ -1,0 +1,18 @@
+D:\Work\Visual Studio\C# Projects\Patrulatere Visual\Patrulatere Visual\bin\Debug\Patrulatere Visual.exe.config
+D:\Work\Visual Studio\C# Projects\Patrulatere Visual\Patrulatere Visual\bin\Debug\Patrulatere Visual.exe
+D:\Work\Visual Studio\C# Projects\Patrulatere Visual\Patrulatere Visual\bin\Debug\Patrulatere Visual.pdb
+D:\Work\Visual Studio\C# Projects\Patrulatere Visual\Patrulatere Visual\obj\Debug\Patrulatere Visual.csprojAssemblyReference.cache
+D:\Work\Visual Studio\C# Projects\Patrulatere Visual\Patrulatere Visual\obj\Debug\Patrulatere_Visual.Properties.Resources.resources
+D:\Work\Visual Studio\C# Projects\Patrulatere Visual\Patrulatere Visual\obj\Debug\Patrulatere Visual.csproj.GenerateResource.cache
+D:\Work\Visual Studio\C# Projects\Patrulatere Visual\Patrulatere Visual\obj\Debug\Patrulatere Visual.exe
+D:\Work\Visual Studio\C# Projects\Patrulatere Visual\Patrulatere Visual\obj\Debug\Patrulatere Visual.pdb
+D:\Work\Visual Studio\C# Projects\Patrulatere Visual\Patrulatere Visual\obj\Debug\Patrulatere_Visual.ViewForm.resources
+D:\School\An 3\Sem2\Proiectare Software\Patrulatere Visual\Patrulatere Visual\bin\Debug\Patrulatere Visual.exe.config
+D:\School\An 3\Sem2\Proiectare Software\Patrulatere Visual\Patrulatere Visual\bin\Debug\Patrulatere Visual.exe
+D:\School\An 3\Sem2\Proiectare Software\Patrulatere Visual\Patrulatere Visual\bin\Debug\Patrulatere Visual.pdb
+D:\School\An 3\Sem2\Proiectare Software\Patrulatere Visual\Patrulatere Visual\obj\Debug\Patrulatere Visual.csprojAssemblyReference.cache
+D:\School\An 3\Sem2\Proiectare Software\Patrulatere Visual\Patrulatere Visual\obj\Debug\Patrulatere_Visual.ViewForm.resources
+D:\School\An 3\Sem2\Proiectare Software\Patrulatere Visual\Patrulatere Visual\obj\Debug\Patrulatere_Visual.Properties.Resources.resources
+D:\School\An 3\Sem2\Proiectare Software\Patrulatere Visual\Patrulatere Visual\obj\Debug\Patrulatere Visual.csproj.GenerateResource.cache
+D:\School\An 3\Sem2\Proiectare Software\Patrulatere Visual\Patrulatere Visual\obj\Debug\Patrulatere Visual.exe
+D:\School\An 3\Sem2\Proiectare Software\Patrulatere Visual\Patrulatere Visual\obj\Debug\Patrulatere Visual.pdb
